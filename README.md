@@ -2,6 +2,8 @@
 
 Este projeto implementa uma visualização dinâmica de uma **Boltzmann Machine (BM)** utilizando Python e FastAPI. A visualização é gerada como um **GIF** dinâmico, mostrando a interação entre unidades visíveis e ocultas ao longo do tempo.
 
+![boltzmann](https://github.com/user-attachments/assets/cc66a93c-0aa2-4509-97b3-c75fc8dfbd86)
+
 ## Descrição
 
 As **Boltzmann Machines** são redes neurais estocásticas que podem ser usadas para modelar sistemas de probabilidade. Elas são compostas por unidades visíveis e ocultas, com conexões entre elas, e podem ser usadas para aprender representações e realizar inferências.
